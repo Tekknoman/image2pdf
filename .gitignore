@@ -1,0 +1,5 @@
+.env
+processed_images/
+input/
+__pycache__/
+*.pdf

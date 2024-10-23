@@ -1,0 +1,4 @@
+Pillow
+python-dotenv
+img2pdf
+tqdm

@@ -11,6 +11,9 @@ This project allows you to convert scanned pages of a book into a single PDF fil
 - Processes images in test mode to verify configurations.
 - Outputs a single PDF file containing all processed pages.
 - **New GUI**: A graphical user interface for selecting input directories and processing images.
+- **Set Configuration Parameters**: Users can set cropping parameters directly from the GUI.
+- **Image Preview**: Preview cropping on selected images before processing.
+- **Run Button**: A button to initiate the processing of selected images.
 
 ## Installation
 

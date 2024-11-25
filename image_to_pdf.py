@@ -5,7 +5,7 @@ import img2pdf
 from tqdm import tqdm  # Import tqdm for progress bars
 
 # Load environment variables
-load_dotenv("example.env")
+load_dotenv(".env")
 
 # Configuration
 CROP_LEFT = int(os.getenv("CROP_LEFT", 0))

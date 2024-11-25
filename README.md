@@ -10,6 +10,7 @@ This project allows you to convert scanned pages of a book into a single PDF fil
 - Splits double pages into two separate pages.
 - Processes images in test mode to verify configurations.
 - Outputs a single PDF file containing all processed pages.
+- **New GUI**: A graphical user interface for selecting input directories and processing images.
 
 ## Installation
 
@@ -30,10 +31,16 @@ This project allows you to convert scanned pages of a book into a single PDF fil
 
 ## Usage
 
-To run the program, execute the following command:
+To run the program from the command line, execute the following command:
 
 ```bash
 python image_to_pdf.py
+```
+
+To use the graphical user interface, run:
+
+```bash
+python image_to_pdf_gui.py
 ```
 
 ## Configuration

@@ -15,6 +15,7 @@ This project allows you to convert scanned pages of a book into a single PDF fil
 - **Image Preview**: Preview cropping on selected images before processing.
 - **Run Button**: A button to initiate the processing of selected images.
 - **Cropping Overlay**: Users can now see the original image with an overlay indicating the cropping area. The cropping area can be adjusted by dragging the edges of the overlay.
+- **Image Navigation**: Users can now navigate through images using "Previous" and "Next" buttons, and the dropdown displays only the filenames instead of the full paths.
 
 ## Installation
 

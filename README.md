@@ -14,6 +14,7 @@ This project allows you to convert scanned pages of a book into a single PDF fil
 - **Set Configuration Parameters**: Users can set cropping parameters directly from the GUI.
 - **Image Preview**: Preview cropping on selected images before processing.
 - **Run Button**: A button to initiate the processing of selected images.
+- **Cropping Overlay**: Users can now see the original image with an overlay indicating the cropping area. The cropping area can be adjusted by dragging the edges of the overlay.
 
 ## Installation
 
